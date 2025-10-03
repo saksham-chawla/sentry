@@ -1,7 +1,7 @@
 from enum import Enum
 
 
-class ApiOwner(Enum):
+class Apiwner(Enum):
     """
     Used to track ownership of APIs
     Value should map to team's github group
